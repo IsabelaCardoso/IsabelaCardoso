@@ -2,7 +2,7 @@
 <h2 align="left">Hello there, welcome! <h3 align="left">I’m Isabela, or just Isa, if you prefer.</h3>
 
 
-<p align="justify">I have a degree in Public Relations at the Universidade Federal de Minas Gerais (UFMG) and I've used to work as event producer.
+<p align="justify">I have a degree in Public Relations at the Universidade Federal de Minas Gerais (UFMG) and I used to work as event producer.
 Recently I've decided to change my career and since then I'm studying to be a <strong>full-stack web developer</strong>. I’m super excited to learn more and more everyday about this new world full of possibilities.</p>
 <br>
   
