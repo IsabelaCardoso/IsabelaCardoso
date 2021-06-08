@@ -1,4 +1,4 @@
-<img align="right" alt="my octocat" width="350px" src="https://user-images.githubusercontent.com/69821881/120045659-e7f66500-bfe6-11eb-9f48-b87e32415c30.png?raw=true" />
+<img align="right" alt="my octocat" width="300px" src="https://user-images.githubusercontent.com/69821881/120045659-e7f66500-bfe6-11eb-9f48-b87e32415c30.png?raw=true" />
 <h2 align="left">Hello there, welcome! <h3 align="left">I’m Isabela, or just Isa, if you prefer.</h3>
 
 
