@@ -1,9 +1,9 @@
 <img align="right" alt="my octocat" width="300px" src="https://user-images.githubusercontent.com/69821881/120045659-e7f66500-bfe6-11eb-9f48-b87e32415c30.png?raw=true" />
 <h2 align="left">Hello there, welcome! <h3 align="left">I’m Isabela, or just Isa, if you prefer.</h3>
 
-
-<p align="justify">I have a degree in Public Relations at the Universidade Federal de Minas Gerais (UFMG) and I used to work as an event producer.
-Recently I've decided to change my career and since then I'm studying to be a <strong>full-stack web developer</strong>. I’m super excited to learn more and more about this new world full of possibilities.</p>
+<p>I'm a <strong>full-stack web developer</strong>, passionate about :bulb: learning new things, :raising_hand: meeting new people and :earth_americas: traveling!<br> 
+I also have a degree in Public Relations at the Universidade Federal de Minas Gerais (UFMG), and now I started a postgraduate degree in Software Engineering.
+</p>
 <br>
   
 <h4>Languages and tools:</h4>
@@ -21,9 +21,6 @@ Recently I've decided to change my career and since then I'm studying to be a <s
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="25px"/>
 </div>
 <br><br>
-
-<p><strong>Future learnings</strong> <i>(jun, jul, aug/21)</i>:</p>
-<p>• Object-Oriented Programming • SOLID • Algorithms and Data Structure • Python •</p>  <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelacardoso&show_icons=true&theme=dark)
   
