@@ -4,7 +4,6 @@
 <p>I'm a <strong>full-stack web developer</strong>, passionate about :bulb: learning new things, :raising_hand: meeting new people and :earth_americas: traveling!<br> 
 I also have a degree in Public Relations at the Universidade Federal de Minas Gerais (UFMG), and now I started a postgraduate degree in Software Engineering.
 </p>
-<br>
   
 <h4>Languages and tools:</h4>
 <div width=500px>
